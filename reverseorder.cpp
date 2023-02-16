@@ -40,6 +40,6 @@ void reverse_order(std::string date1, std::string date2){
         }
     }
     for(int i=counter;i>=0;i--){
-        std::cout<<dates[i]<<" "<<data[i]<<std::endl;
+        std::cout<<dates[i]<<" "<<data[i]<<" ft"<<std::endl;
     }
 }
