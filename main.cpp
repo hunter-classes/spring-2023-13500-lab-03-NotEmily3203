@@ -1,4 +1,4 @@
-// add your code as appropriate 
+// Name: Emily Lin; Github: NotEmily3203
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
